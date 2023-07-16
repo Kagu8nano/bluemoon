@@ -156,40 +156,32 @@ main a {
 .longTitle {
     padding: .5em 1em;
     background: rgba(255, 255, 255, 0.7);
-    text-align: right;
+    text-align: center;
 }
 
 /* 長編画像設定 */
 #box1 {
-    background: url('../img/4.jpg') center / cover #dbdfe7;
+    background: url('../img/FF14_kaguya.jpg') center / cover #dbdfe7;
 }
 
 #box2 {
-    background: url('../img/5_.jpg') center / cover;
+    background: url('../img/FF14_ui.jpg') center / cover #dbdfe7;
 }
-#box2 .longInfo {
-    color: #ffffff;
-}
-#box2 .longTitle {
-    color: #000000;
-    font-family: serif;
-}
-/* ↑個別にデザインを変更できます */
 
 #box3 {
-    background: url('../img/bg/bg_10.jpg') center / cover;
+    background: url('../img/FF14_ria2.jpg') center / cover #dbdfe7;
 }
 
 #box4 {
-    background: url('../img/5.jpg') center / 150%;
-}
-#box4 .longInfo, #box4 .longTitle {
-    background: rgba(59, 50, 38, 0.8);
-    color: #d6d2cb;
+    background: url('../img/liv_urara.jpg') center / cover #dbdfe7;
 }
 
 #box5 {
-    background: url('../img/bg/bg_55.jpg') center / cover;
+    background: url('../img/p_kaguya.jpg') center / cover #dbdfe7;
+}
+
+#box6 {
+    background: url('../img/p_seira.jpg') center / cover #dbdfe7;
 }
 
 /* 名前変換フォーム */
