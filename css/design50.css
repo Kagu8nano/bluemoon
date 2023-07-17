@@ -215,7 +215,9 @@ main a {
 #box14 {
      background: url('../img/natsu.png') center / cover #dbdfe7;
 }
-
+#box15 {
+     background: url('../img/love2.jpg') center / cover #dbdfe7;
+}
 
 /* 名前変換フォーム */
 .nameChange {
