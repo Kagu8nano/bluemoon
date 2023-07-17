@@ -184,6 +184,39 @@ main a {
     background: url('../img/p_seira.jpg') center / cover #dbdfe7;
 }
 
+#box7 {
+    background: url('../img/love.jpg') center / cover #dbdfe7;
+}
+
+#box8 {
+    background: url('../img/doremi.jpg') center / cover #dbdfe7;
+}
+
+#box9 {
+    background: url('../img/ruri.png') center / cover #dbdfe7;
+}
+
+#box10 {
+    background: url('../img/era.png') center / cover #dbdfe7;
+}
+
+#box11 {
+     background: url('../img/runa.png') center / cover #dbdfe7;
+}
+
+#box12 {
+     background: url('../img/stella.png') center / cover #dbdfe7;
+}
+
+#box13 {
+     background: url('../img/aki.png') center / cover #dbdfe7;
+}
+
+#box14 {
+     background: url('../img/natsu.png') center / cover #dbdfe7;
+}
+
+
 /* 名前変換フォーム */
 .nameChange {
     text-align: center;
